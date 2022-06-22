@@ -4,17 +4,16 @@
 
 		{
 			"key": "123456789",
-			"serialKey": 123456,
+			"serialKey": "123456",
 			"uniqueWinId": "F5F86EAC-8D86-4792-8053-588-B1C3F41C6",
-			"booleano": true,
-			"nulo": null
+			
+			
 		},
 		{
 			"key": "1234567891",
-			"serialKey": 1234567891,
+			"serialKey": "1234567891",
 			"uniqueWinId": "F5F86EAC-8D86-4792-8053-588-B1C3F41C6",
-			"booleano": true,
-			"nulo": null
+			
 		}
 	]
 }
